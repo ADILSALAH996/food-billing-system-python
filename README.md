@@ -21,7 +21,7 @@ A simple GUI-based food billing system developed using Python and Tkinter.
 1. Install Python 3
 2. Download the project
 3. Run:
-   python main.py
+   python foodbilling.py
 
 ## Author
 Adil Salah

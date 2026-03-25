@@ -56,7 +56,7 @@ Display Resolution: 1024×768 or higher
 
 Step 1 — Clone repository:
 
-git clone https://github.com/yourusername/Food-Billing-System.git
+git clone https://github.com/ADILSALAH996/Food-Billing-System.git
 
 Step 2 — Navigate to folder:
 

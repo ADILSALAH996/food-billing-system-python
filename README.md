@@ -3,7 +3,7 @@
 A desktop-based restaurant billing system built using Python and Tkinter.
 This application allows users to select menu items, calculate totals with service charge, discount, and GST, generate formatted receipts, and automatically save billing records.
 
-**Features**
+**Features** 
 Menu-based food and drink selection
 Quantity control using ➕ and ➖ buttons
 Automatic billing calculations
